@@ -6,5 +6,4 @@ Durante o desenvolvimento do projeto pude aprender os conceitos de desenvolvimen
 
 
 # Funcionamento do aplicativo
-
-![imhere](https://github.com/GuilhermeAugustoFT/imhere/assets/49246009/36a209d6-6ba2-4ce9-9266-a9dba56a37b4)
+![imhere](https://github.com/GuilhermeAugustoFT/imhere/assets/49246009/5491e51e-d9c2-4602-a6fd-8980b13716ad)
